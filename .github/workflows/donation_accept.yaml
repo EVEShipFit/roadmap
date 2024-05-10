@@ -6,7 +6,7 @@ on:
     - labeled
 
 concurrency:
-  group: ${{ github.workflow }}
+  group: ${{ github.workflow }}-${{ github.event.issue.number }}
   cancel-in-progress: false
 
 jobs:
