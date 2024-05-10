@@ -20,7 +20,7 @@ As all the time spend on development of EVEShip.fit is time not spend in-game ma
 Therefor, for all Features and Bugs that participate, you will see a reply which states how much ISK we estimate we could have made in-game; but are instead spending on the feature.
 
 If you want the development of that Feature / Bug to be prioritized over playing the game, you can make an in-game donation to the corp [EVEShip.fit](https://evewho.com/corporation/98753333) for any amount above 50m ISK.
-Please make sure to mention `issue-<issuenumber>` in the description of your donation.
+Please make sure to mention `ip-<issuenumber>` in the description of your donation.
 The ticket will be updated with how much is donated, and anyone is welcome to donate.
 
 Whoever implements that feature, will be granted the ISK donated (in full; EVEShip.fit does not take any cut) to that Feature / Bug.
