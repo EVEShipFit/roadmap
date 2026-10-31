@@ -1,15 +1,15 @@
 # Roadmap of EVEShip.fit
 
-Development costs time.
-So for EVEShip.fit we want to be transparent in what is being worked on, and what is not.
+> [!IMPORTANT]
+> This repository is archived and no longer accepts new issues.
 
-## New features
+Thank you to everyone who shared ideas and reported bugs here!
 
-When you have an awesome idea that you think could be of great value to EVEShip.fit, please file a New Feature request in the [issue tracker](https://github.com/EVEShipFit/roadmap/issues/new/choose).
+From now on, please open your bug reports and feature requests in the repository they belong to:
 
-## Bugs
+- [eveship.fit](https://github.com/EVEShipFit/eveship.fit/issues): anything about the website. Think layout, buttons, sharing fits, importing and exporting.
+- [dogma-engine](https://github.com/EVEShipFit/dogma-engine/issues): anything about the numbers. Think wrong stats, like DPS, capacitor, tank, or speed.
 
-When you found a bug in EVEShip.fit, no matter what part of it, please file a Bug Report in the [issue tracker](https://github.com/EVEShipFit/roadmap/issues/new/choose).
-It might be moved to a specific repository if it belongs there; but that is nothing for you to worry about.
-We want to address your problem.
-That is what is important.
+Not sure where it belongs?
+Just pick the one that feels closest.
+We will move it if needed.
